@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="75">
+  <path vector-effect="non-scaling-stroke" d="M0 .011h110V74.99H0z" fill="#fff" />
+  <path vector-effect="non-scaling-stroke" d="M56.25 61.25v-22.5h22.5v22.5z" fill="#feba08" />
+  <path vector-effect="non-scaling-stroke" d="M31.25 61.25v-22.5h22.5v22.5z" fill="#05a6f0" />
+  <path vector-effect="non-scaling-stroke" d="M56.25 36.25v-22.5h22.5v22.5z" fill="#80bc06" />
+  <path vector-effect="non-scaling-stroke" d="M31.25 36.25v-22.5h22.5v22.5z" fill="#f25325" />
+</svg>
